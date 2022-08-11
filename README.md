@@ -6,17 +6,19 @@
   <a href="https://www.linkedin.com/in/mohamed-hisham-ibrahim/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
-  My Name Is Mohamed Hisham 
-</div>
+  </div>
+  
+# My Name Is Mohamed Hisham 
+
 <div  align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif"/>
 </div><br>
 
 ---
 ### :man_technologist: About Me :
--Bachelor's Degree in business information system 2019 - 2023 (Expected)<br>
--working to be data scientist and web developer :pray: <br>
--also i have experience as telesales agent :man_shrugging:<br>
+-  Bachelor's Degree in business information system 2019 - 2023 (Expected)<br>
+-  working to be data scientist and web developer :pray: <br>
+-  also i have experience as telesales agent :man_shrugging:<br>
 
 ---
 
