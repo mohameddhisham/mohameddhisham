@@ -16,14 +16,15 @@
 
 ---
 ### :man_technologist: About Me :
--  Bachelor's Degree in business information system 2019 - 2023 (Expected)<br>
--  working to be data scientist and web developer :pray: <br>
+-  Bachelor's Degree in business information system 2019 - 2023 <br>
+-  i aspire to be a data analyst / data scientist :pray: <br>
 -  also i have experience as telesales agent :man_shrugging:<br>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://www.python.org/community/logos/" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
