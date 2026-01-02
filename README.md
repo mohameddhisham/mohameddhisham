@@ -16,18 +16,19 @@
 
 ---
 ### :man_technologist: About Me :
+-  I am a data analyst proficient in Power BI, SQL, Python, and DAX, driving strategic business decisions, robust data models, and interactive dashboards, and transforming complex data into clear, actionable insights. Proven ability to enhance data accessibility and streamline workflows, contributing to significant business growth by effectively solving intricate data challenges
 -  Bachelor's Degree in business information system 2019 - 2023 <br>
--  i aspire to be a data analyst / data scientist :pray: <br>
--  also i have experience as telesales agent :man_shrugging:<br>
+
+
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://www.python.org/community/logos/" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+### 🛠️ Languages and Tools:
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI" alt="PowerBI" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" alt="Excel" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau" alt="Tableau" height="40"/>
 </div>
